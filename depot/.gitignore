@@ -36,5 +36,8 @@
 /app/assets/builds/*
 !/app/assets/builds/.keep
 
-#Jetbrains
+# Jetbrains
 /.idea/
+
+# Mac OS
+.DS_Store
